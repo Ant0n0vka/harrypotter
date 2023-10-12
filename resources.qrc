@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>background.jpg</file>
+        <file>radio_2.png</file>
+        <file>radio_4.png</file>
+        <file>radio_3.png</file>
+        <file>radio-button.png</file>
+        <file>radio.png</file>
+    </qresource>
+    <qresource prefix="/style">
+        <file>radioStyle.qss</file>
+        <file>buttonStyle.qss</file>
+    </qresource>
+</RCC>

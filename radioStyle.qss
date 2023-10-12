@@ -1,0 +1,28 @@
+QRadioButton::indicator {
+    width: 25;
+    height: 35;
+}
+
+QRadioButton::indicator::unchecked {
+    image: url(:/images/radio.png);
+}
+
+QRadioButton::indicator:unchecked:hover {
+    image: url(:/images/radio-button.png);
+}
+
+QRadioButton::indicator:unchecked:pressed {
+    image: url(:/images/radio_4.png);
+}
+
+QRadioButton::indicator::checked {
+    image: url(:/images/radio_4.png);
+}
+
+QRadioButton::indicator:checked:hover {
+    image: url(:/images/radio_4.png);
+}
+
+QRadioButton::indicator:checked:pressed {
+    image: url(:/images/radio_4.png);
+}
